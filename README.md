@@ -11,7 +11,7 @@
 
 </p>
 <h1 align="center">
-  <b>HELLO BROTHER!<b> <a href="https://www.facebook.com/maliknai1234?mibextid=ZbWKwL" target="blank">MR.SPIDER</a> Is Here
+  <b>HELLO BROTHER!<b> <a href="https://www.facebook.com/maliknai1234?mibextid=ZbWKwL" target="blank">MR.SPIDER</a> IS HERE
 </h1>
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=SPIDER-143&show_icons=true&theme=chartreuse-dark&locale=id">
