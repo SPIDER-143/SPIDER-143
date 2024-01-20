@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count]([https://profile-counter.glitch.me/SPIDER-143/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SPIDER-143/count.svg)
 
 - ![Profile views](https://gpvc.arturio.dev/R4AT)
 - [![GitHub followers](https://img.shields.io/github/followers/SPIDER-143.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/R4AT?tab=followers)
